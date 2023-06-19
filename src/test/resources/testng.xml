@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="TestsSuite" >
+
+        <test name="API" group-by-instances="true">
+            <classes >
+                <class name = "apiTests.TestApi_Pets"/>
+                <class name = "apiTests.TestApi_Users"/>
+            </classes>
+        </test>
+
+ </suite>

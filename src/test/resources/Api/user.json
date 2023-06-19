@@ -1,0 +1,10 @@
+{
+   "id": __id,
+   "username": "__username",
+   "firstName": "__firstName",
+   "lastName": "__lastName",
+   "email": "__email",
+   "password": "__password",
+   "phone": "__phone",
+   "userStatus": __userStatus
+}
